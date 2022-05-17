@@ -1,0 +1,1 @@
+Images will be dropped here- delete this file after generating images.

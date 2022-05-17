@@ -1,0 +1,1 @@
+Metadata files will be dropped here- delete this file after generating the json files.
